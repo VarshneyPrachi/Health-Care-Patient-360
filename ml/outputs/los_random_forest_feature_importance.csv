@@ -1,0 +1,50 @@
+feature,importance
+admission_type_Emergency,0.40450952717070454
+patient_age,0.0878060082668663
+admission_type_Urgent,0.07479345629990089
+days_since_previous_admission,0.07230620006503624
+admission_type_Routine,0.06150892345756935
+lab_test_count,0.03138030665827633
+abnormal_lab_count,0.022486982897213757
+treatment_count,0.022204116880134163
+admission_type_Elective,0.01994423216347118
+diagnosis_count,0.01625978151624915
+previous_admissions,0.014466851436060326
+insurance_type_Private,0.009926389508706846
+insurance_type_Government,0.007418086569668856
+admission_source_Primary Care Referral,0.007024797349031611
+admission_source_Emergency Department,0.0070009122021111245
+admission_source_Specialist Referral,0.006828456283141847
+admission_source_Outpatient Referral,0.006760060259041976
+insurance_type_Corporate,0.006578577581566212
+admission_source_Transfer from Other Hospital,0.006556571381345877
+gender_Female,0.006257487417934591
+insurance_type_Self-Pay,0.006248665358373703
+gender_Male,0.00593974463733738
+department_name_Pulmonology,0.004317107184335969
+department_name_Cardiology,0.00423298424597644
+department_name_Pediatrics,0.004190046972602036
+department_name_Neurology,0.0041147098113166695
+department_name_Orthopedics,0.004024806142811298
+department_name_Gastroenterology,0.003998389365534633
+city_Agra,0.0039123502942001375
+city_Lucknow,0.0037453036509196643
+city_Meerut,0.003722385863959306
+department_name_General Medicine,0.003704748816974068
+department_name_Emergency,0.0036735393822798458
+department_name_General Surgery,0.003660613066819186
+department_name_Oncology,0.0036498545621102903
+city_Gurugram,0.003632955838398454
+department_name_Nephrology,0.0035440843045281365
+department_name_ICU,0.0035385449447054014
+city_Chandigarh,0.0033560818419684727
+city_Kanpur,0.0033057550349207356
+city_Dehradun,0.0031656419725877086
+city_Ghaziabad,0.0031605913078938098
+city_Varanasi,0.0031010899706509307
+city_Faridabad,0.0030752455964853822
+city_Noida,0.003064020548765998
+city_Delhi,0.0030417042068018904
+city_Prayagraj,0.0030224617768337234
+city_Jaipur,0.0029439596206314
+city_Greater Noida,0.0028948883152461733

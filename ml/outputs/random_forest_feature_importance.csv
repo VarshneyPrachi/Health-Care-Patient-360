@@ -1,0 +1,50 @@
+feature,importance
+days_since_previous_admission,0.32157270649229064
+previous_admissions,0.2886099787388358
+patient_age,0.07955624912022606
+abnormal_lab_count,0.04047325047987038
+treatment_count,0.031305277198820945
+lab_test_count,0.022983120287484622
+diagnosis_count,0.016902543921037922
+admission_type_Emergency,0.009216756768201904
+insurance_type_Private,0.008328286775460436
+gender_Female,0.007450705890445619
+gender_Male,0.00741532188543627
+admission_source_Outpatient Referral,0.006938195671705112
+admission_source_Emergency Department,0.0069027963524127345
+insurance_type_Government,0.006701581872422182
+insurance_type_Corporate,0.006655106435909306
+admission_source_Specialist Referral,0.0065650790400671385
+admission_type_Urgent,0.00652869865898248
+admission_type_Elective,0.006467948721578926
+admission_source_Transfer from Other Hospital,0.006461561728516267
+admission_source_Primary Care Referral,0.0061258736024823865
+insurance_type_Self-Pay,0.005653950133788679
+admission_type_Routine,0.005524240571535876
+department_name_Neurology,0.004405652051832344
+department_name_General Medicine,0.0040937457227448425
+city_Noida,0.0040784815603141875
+department_name_Pulmonology,0.0040104955376629664
+department_name_Orthopedics,0.003961842075162723
+department_name_Pediatrics,0.003943607934685932
+city_Agra,0.003874147294328972
+city_Dehradun,0.003839777820530187
+department_name_Cardiology,0.0038050675896648877
+city_Gurugram,0.0037611603752151375
+department_name_Oncology,0.003729273129966944
+city_Lucknow,0.003608318905569765
+department_name_General Surgery,0.0035463958325202675
+department_name_Nephrology,0.003525687996000764
+department_name_ICU,0.003414696019715048
+city_Varanasi,0.0033903720612926147
+department_name_Gastroenterology,0.003365280637004399
+department_name_Emergency,0.0033242855648930006
+city_Jaipur,0.003268888984645727
+city_Prayagraj,0.0032615342636024636
+city_Greater Noida,0.0032606710542619263
+city_Kanpur,0.003244773654657231
+city_Delhi,0.0032446934899867112
+city_Meerut,0.0031339293631453525
+city_Chandigarh,0.0029110528679249636
+city_Faridabad,0.0028502243385548553
+city_Ghaziabad,0.002806713526604051

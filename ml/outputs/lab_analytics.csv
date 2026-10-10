@@ -1,0 +1,13 @@
+test_name,test_category,unit,total_tests,normal_results,abnormal_results,average_result,minimum_result,maximum_result,abnormal_percentage
+HbA1c,Diabetes,%,5275,4316,959,5.3,2.0,9.75,18.18
+Platelet Count,Hematology,10^3/uL,5081,4147,934,308.8,75.17,674.75,18.38
+White Blood Cell Count,Hematology,10^3/uL,5288,4354,934,7.7,2.01,16.49,17.66
+Blood Glucose,Biochemistry,mg/dL,5228,4309,919,106.84,35.04,209.67,17.58
+LDL Cholesterol,Lipid Profile,mg/dL,5273,4285,988,92.07,25.07,194.8,18.74
+Sodium,Electrolytes,mmol/L,5183,4263,920,140.41,67.52,217.34,17.75
+Creatinine,Kidney,mg/dL,5298,4373,925,0.97,0.3,1.95,17.46
+HDL Cholesterol,Lipid Profile,mg/dL,5237,4300,937,60.84,20.07,119.99,17.89
+Hemoglobin,Hematology,g/dL,5260,4322,938,14.61,6.01,25.49,17.83
+Total Cholesterol,Lipid Profile,mg/dL,5246,4341,905,164.53,62.66,299.54,17.25
+Urea,Kidney,mg/dL,5250,4333,917,30.88,7.53,67.42,17.47
+Potassium,Electrolytes,mmol/L,5237,4302,935,4.36,1.75,7.65,17.85
