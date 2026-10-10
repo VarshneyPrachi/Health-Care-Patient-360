@@ -119,28 +119,15 @@ This project addresses that analytical challenge by building a unified workflow 
 
 ## 📸 Tableau Dashboard Gallery
 
-The following dashboards provide an executive and operational view of the healthcare dataset.
+The following screenshot showcases the Hospital at a Glance dashboard built in Tableau.
 
-### 1. Hospital at a Glance
+### 🏥 Hospital at a Glance
 
 ![Hospital at a Glance Tableau Dashboard](tableau/screenshots/hospital-overview.png)
 
-An executive overview of patient volumes, admissions, average length of stay, hospital revenue, department activity, patient-risk categories, and insurance mix.
+This dashboard provides an executive overview of hospital performance, including patient volumes, admissions, average length of stay, revenue, department activity, patient-risk categories, and insurance mix.
 
-### 2. Operations & Clinical
-
-![Operations and Clinical Tableau Dashboard](tableau/screenshots/operations-clinical.png)
-
-A closer look at department admissions, emergency activity, average length of stay, doctor workload, and laboratory analytics.
-
-### 3. Financial Intelligence
-
-![Financial Intelligence Tableau Dashboard](tableau/screenshots/financial-intelligence.png)
-
-A financial overview covering billed revenue, insurance coverage, patient payments, revenue by insurance type, department-level revenue, and payment status.
-
-> **Note:** These images are loaded from the repository's `tableau/screenshots/` folder. Add your actual Tableau screenshots using the filenames shown above for them to appear here.
-
+*More Tableau dashboard screenshots will be added as the project evolves.*
 ## 🛠️ Technology Stack
 
 | Layer | Technologies |
